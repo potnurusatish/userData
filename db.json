@@ -1,1 +1,6 @@
-
+{
+  "users": [
+    { "id": 1, "first_name": "Sam", "last_name":"Konstas","email":"samkonsta@gmail.com","department":"CSE"},
+    { "id": 2, "first_name": "Sam", "last_name":"Curran","email":"samcurran@gmail.com","department":"IT"}
+  ]
+}
